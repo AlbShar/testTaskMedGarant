@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testTaskMedGarant/static/css/main.073c9b0a.css",
+    "main.js": "/testTaskMedGarant/static/js/main.0aba3391.js",
+    "index.html": "/testTaskMedGarant/index.html",
+    "main.073c9b0a.css.map": "/testTaskMedGarant/static/css/main.073c9b0a.css.map",
+    "main.0aba3391.js.map": "/testTaskMedGarant/static/js/main.0aba3391.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0aba3391.js"
+  ]
+}
