@@ -23,6 +23,6 @@ const busy = [
 ]
 
 ### Решение:
-Файл с решением: https://github.com/AlbShar/testTaskMedGarant/tree/master/myDecision
+Файл с решением: https://github.com/AlbShar/testTaskMedGarant/blob/master/myDecision/testTaskMedGarant.js
 
 Визуализация решения:  https://albshar.github.io/testTaskMedGarant/ 
