@@ -62,7 +62,7 @@ const getFreeTime = (startJobTime, endJobTime) => {
     stop: toStrTime(busyTime.stop),
   }));
 
-  console.log(freeTimeStr);
+  return freeTimeStr;
 };
 
 getFreeTime("09:00", "21:00");
